@@ -1,7 +1,7 @@
 package com.example;
 
 import java.util.*;
-public class LinkedLists {
+public class LinkedList {
 	
 	public static void main(String args[]) {
 		
