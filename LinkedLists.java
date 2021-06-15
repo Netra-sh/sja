@@ -5,7 +5,7 @@ public class LinkedLists {
 	
 	public static void main(String args[]) {
 		
-		 LinkedLists<String> ll=new LinkedLists<String>();  
+		 LinkedList<String> ll=new LinkedList<String>();  
 		 
 		 
 		 ll.add("Netra");
