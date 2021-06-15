@@ -1,5 +1,5 @@
 import java.util.*;
-public class LinkedList {
+public class sample {
 	public static void main(String args[])
     {
         // Creating object of the
