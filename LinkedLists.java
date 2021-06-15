@@ -40,12 +40,6 @@ public class LinkedLists {
 		 while(itr.hasNext()) {
 			 System.out.println(itr.next());
 		 }
-		 
-		 
-		 
-		 
-	
-		
 	}
 
 }
